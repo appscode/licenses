@@ -1,6 +1,6 @@
-# AppsCode Free Trial License 1.0.0
+# AppsCode Community License 1.0.0
 
-<https://github.com/appscode/licenses/raw/1.0.0/AppsCode-Free-Trial-1.0.0.md>
+<https://github.com/appscode/licenses/raw/1.0.0/AppsCode-Community-1.0.0.md>
 
 ## Acceptance
 
@@ -14,13 +14,17 @@ The licensor grants you a copyright license for the software to do everything yo
 
 The licensor grants you a patent license for the software that covers patent claims the licensor can license, or becomes able to license, that you would infringe by using the software.
 
+## Noncompete
+
+Any purpose is a permitted purpose, except for providing to others any product that competes with the software.
+
+## Competition
+
+If you use this software to market a product as a substitute for the functionality or value of the software, it competes with the software. A product may compete regardless how it is designed or deployed. For example, a product may compete even if it provides its functionality via any kind of interface (including services, libraries or plug-ins), even if it is ported to a different platforms or programming languages, and even if it is provided free of charge.
+
 ## Fair Use
 
 You may have "fair use" rights for the software under the law. These terms do not limit them.
-
-## Free Trial
-
-Use to evaluate whether the software suits a particular application for less than 30 consecutive calendar days, on behalf of you or your company, is use for a permitted purpose.
 
 ## No Other Rights
 
@@ -32,7 +36,7 @@ If you make any written claim that the software infringes or contributes to infr
 
 ## Violations
 
-If you violate any of these terms, or do anything with the software not covered by your licenses, all your licenses end immediately.
+The first time you are notified in writing that you have violated any of these terms, or done anything with the software not covered by your licenses, your licenses can nonetheless continue if you come into full compliance with these terms, and take practical steps to correct past violations, within 32 days of receiving notice.  Otherwise, all your licenses end immediately.
 
 ## No Liability
 
@@ -41,6 +45,8 @@ If you violate any of these terms, or do anything with the software not covered 
 ## Definitions
 
 The **licensor** is the individual or entity offering these terms, and the **software** is the software the licensor makes available under these terms.
+
+A **product** can be a good or service, or a combination of them.
 
 **You** refers to the individual or entity agreeing to these terms.
 
